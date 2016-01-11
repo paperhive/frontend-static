@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="625.83783"
-   height="304.26715"
+   width="205.68697"
+   height="100.00001"
    id="svg3829"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="276.35569"
-     inkscape:cy="99.07624"
+     inkscape:cx="276.35567"
+     inkscape:cy="99.07626"
      inkscape:document-units="px"
      inkscape:current-layer="g4018"
      showgrid="false"
@@ -44,11 +44,14 @@
      inkscape:window-x="992"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
-     fit-margin-top="63.41"
-     fit-margin-left="67.98"
-     fit-margin-bottom="63.41"
-     fit-margin-right="203.94"
-     inkscape:snap-page="true" />
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true" />
   <metadata
      id="metadata3834">
     <rdf:RDF>
@@ -57,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,12 +68,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-21.48963,-325.79308)">
+     transform="translate(-21.48965,-530.06022)">
     <g
        id="g4018"
        transform="matrix(2.5875917,0,0,2.5875917,-703.91833,-899.60925)">
       <g
-         id="g11475">
+         id="g11475"
+         transform="matrix(0.32865858,0,0,0.32865858,188.20451,396.86728)">
         <g
            id="g11387">
           <g
@@ -462,7 +466,7 @@
            height="304.26715"
            width="625.83783"
            id="rect11473"
-           style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:none;stroke:none;stroke-width:7;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       </g>
     </g>
   </g>
