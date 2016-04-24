@@ -54,26 +54,30 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-552.36216)">
-    <rect
-       style="fill:#fbde34;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4770"
-       width="500"
-       height="500"
-       x="0"
-       y="552.36218"
-       rx="6.619"
-       ry="4.53649" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="147.02148"
-       y="1010.6044"
-       id="text4772"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4774"
-         x="147.02148"
-         y="1010.6044"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">ES6</tspan></text>
+    <g
+       id="g6963"
+       transform="translate(50,-50.000023)">
+      <rect
+         ry="3.6291919"
+         rx="5.2951999"
+         y="652.36218"
+         x="0"
+         height="400"
+         width="400"
+         id="rect4770"
+         style="fill:#fbde34;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4772"
+         y="1018.9559"
+         x="117.61719"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:144px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'"
+           y="1018.9559"
+           x="117.61719"
+           id="tspan4774"
+           sodipodi:role="line">ES6</tspan></text>
+    </g>
   </g>
 </svg>
